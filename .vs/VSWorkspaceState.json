@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\env",
+    "\\env\\backend",
+    "\\env\\backend\\backend",
+    "\\env\\core",
+    "\\env\\core\\migrations",
+    "\\env\\Include",
+    "\\env\\Lib",
+    "\\env\\Scripts"
+  ],
+  "SelectedNode": "\\env\\backend\\backend\\settings.py",
+  "PreviewInSolutionExplorer": false
+}
